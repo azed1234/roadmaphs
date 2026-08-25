@@ -1,3 +1,8 @@
-# roadmaphs
+# Single Page CV
 
-https://roadmap.sh/projects/single-page-cv
+This is a single-page HTML/CSS resume project built as part of the frontend developer roadmap challenges.
+
+- **Project Challenge URL:** https://roadmap.sh/projects/single-page-cv
+
+## How to Run
+Open `index.html` in any modern web browser to view the page.
